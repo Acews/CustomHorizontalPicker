@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="customHorizontalPicker">
+        <attr name="side_items" format="integer" />
+        <attr name="item_width" format="dimension" />
+    </declare-styleable>
+</resources>
